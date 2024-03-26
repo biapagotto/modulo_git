@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Olá tudo bem?
-=======
 olá, tudo bem?
->>>>>>> Branch-b
+
+Olá tudo bem?
